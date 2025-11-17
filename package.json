@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://32732Nikitha.github.io/travel-frontend/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
